@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741936301808",
+    "project_id": "loginandsignup-ce40e",
+    "storage_bucket": "loginandsignup-ce40e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741936301808:android:01573604d8105a5b5b2435",
+        "android_client_info": {
+          "package_name": "com.oybekdev.loginandsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgM_z6NKLFqPdYd1j7aen8XXi3SbxXU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
